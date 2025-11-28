@@ -1,0 +1,8 @@
+{
+  "name": "HomeDream Architect",
+  "description": "A professional-grade 2D/3D architectural design tool powered by AI. Design floor plans, arrange furniture, and visualize your dream home with intelligent suggestions.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
